@@ -1,4 +1,4 @@
-# GittiGidiyorProject
+# GittiGidiyor-Test-Automation
 Java,Selenium Web Otomasyon Testi
 
 A test automation project in Java using the Selenium library with the Maven Page Object Model structure.
